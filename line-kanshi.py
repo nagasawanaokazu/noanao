@@ -7,7 +7,7 @@ import numpy as np
 import requests,os
  
 # os.chdir("./photo") #画像保存先に移動
-line_notify_token = 'HGS2DPJT5NQN4NRFNqAMlRMQTbkcVzhJ2tTqtosXKHP'
+line_notify_token = '.......tosXKHP'
 line_notify_api = 'https://notify-api.line.me/api/notify'
 message = '動体検知しました'
 
