@@ -6,7 +6,7 @@ import cv2
 import time
 import requests
  
-token = 'HGS2DPJT5NQN4NRFNqAMlRMQTbkcVzhJ2tTqtosXKHP' 
+token = '.................kcVzhJ2tTqtosXKHP' 
 motion_th = 1000 #動体検知の閾値
  
 while True:
