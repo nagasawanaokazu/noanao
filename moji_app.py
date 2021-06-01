@@ -3,7 +3,7 @@ import os
 from google.cloud import speech
 import streamlit as st
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/nagasawanaokazu/Desktop/cloud speech-to-text/myproject.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/Users/............./myproject.json'
 
 def transcribe_file(content,lang='日本語'):
 
